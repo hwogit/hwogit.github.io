@@ -7,7 +7,7 @@ On his face he has applied a mask, with a very, very broad smile on his lips.
 
 ## Character traits
 
-- cheeky
-- funny
-- loud
-- megalomaniac
+* cheeky
+* funny
+* loud
+* megalomaniac
