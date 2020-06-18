@@ -8,6 +8,6 @@ On his face he has applied a mask, with a very, very broad smile on his lips.
 ## Keywords
 
 - cheeky
-- loud
 - funny
+- loud
 - megalomaniac
