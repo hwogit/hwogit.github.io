@@ -15,3 +15,5 @@ On his face he has applied a mask, with a very, very broad smile on his lips.
 My favourite quote (in German):
 
 > Hast du schon mal im blassen Mondlicht mit dem Teufel getanzt?
+
+<img src="https://vignette.wikia.nocookie.net/batman/images/d/d5/JokerJackNicholson.jpg/revision/latest?cb=20190707001537&path-prefix=de" />
