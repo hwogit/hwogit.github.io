@@ -11,3 +11,7 @@ On his face he has applied a mask, with a very, very broad smile on his lips.
 * funny
 * loud
 * megalomaniac
+
+My favourite quote (in German):
+
+> Hast du schon mal im blassen Mondlicht mit dem Teufel getanzt?
