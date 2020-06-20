@@ -13,6 +13,16 @@ test mit \*\*hallo\*\*
 
 test mit \-\-hallo\-\-
 
+test mit \~hallo\~
+
+\_one
+
+\*one
+
+\-one
+
+\~one
+
 {hallo}
 
 }hallo
