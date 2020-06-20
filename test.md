@@ -1,7 +1,13 @@
 
-    ## line 1
+     ## spaces 5
 
- ## line 2
+    ## spaces 4
+
+   ## spaces 3
+
+  ## spaces 2
+
+ ## spaces 1
 
 test <mit>
 
