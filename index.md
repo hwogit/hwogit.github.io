@@ -3,7 +3,7 @@
 
 Hello, this is the plain text about my favourite movie character. Do you know him?
 He has a distinctive smile and is usually neatly dressed in striking colours.
-On his face he has applied a mask, with a very, very broad smile on his lips.
+On his face he has applied a mask, with a very broad smile on his lips.
 
 ## Character traits
 
